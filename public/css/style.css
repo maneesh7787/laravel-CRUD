@@ -1,0 +1,17 @@
+#footer1{
+    margin-top: 30px;
+    padding:10px;
+    color:#fff;
+    background: #0c84e4;
+}
+#footer {
+    position:absolute;
+    bottom:0;
+    width:100%;
+
+    padding:10px;
+    background: #0c84e4;
+    color:#fff;
+}
+#footer p { margin-bottom: 0px;}
+.errors {color: red; list-style: none; font-weight: 600}
